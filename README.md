@@ -1,5 +1,5 @@
-Weather App
+QR Code generator
 <br>
-Check weather of any place of your wish.
+Create a QR Code for anything of your wish.
 <br>
 Author - Abhinandan.H.S
